@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HeatherFryling. I'm a MSCS candidate at Northeastern University Seattle.
+- 👋 Hi, I’m @HeatherFryling. I'm a MSCS graduate from Northeastern University Seattle.
 - 👀 I’m interested in solving big problems with software.
 - 🌱 I’m currently learning about artificial intelligence and studying for technical interviews.
 - 💞️ I’m looking to collaborate on data-driven projects.
